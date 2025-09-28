@@ -53,6 +53,7 @@
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat" alt="JavaScript" />&emsp;
     <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat" alt="TypeScript" />&emsp;
     <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat" alt="Vue.js" />&emsp;
+    <img src="https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat" alt="Node.js" />&emsp;
     <!-- <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat" alt="React" />&emsp; -->
     <!-- visitor -->
     <img src="https://komarev.com/ghpvc/?username=magic-wrangler&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
