@@ -68,5 +68,11 @@
 
   <!-- ![GitHub Metrics](./github-metrics.svg) -->
 
+
+
 </div>
 </div>
+
+- [MagicWrangler](https://mw-me.pages.dev/) 个人简介
+- [FontMinifyGenerateCSS](https://font-css.pages.dev/) 在线字体压缩网站，生成自定义字体的 CSS 代码
+- [CloudStorageUploadPlatform](https://cloud-storage-upload-platform.vercel.app/) 云存储上传平台，支持阿里云存储服务
