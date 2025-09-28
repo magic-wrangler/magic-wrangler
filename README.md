@@ -64,6 +64,9 @@
     <source media="(prefers-color-scheme: light)" srcset="https://w1.gtimg.cn/wujicode/fx_drop_config/9b3ec3b6d0b77da38afbb9ef19bf0f0b/360172e3_gJA_q0-rPez.svg" />
     <img alt="github-snake" src="https://w1.gtimg.cn/wujicode/fx_drop_config/9b3ec3b6d0b77da38afbb9ef19bf0f0b/360172e3_0vRToCLhpld.svg" />
   </picture>
+  
+  ![GitHub Metrics](./github-metrics.svg)
+
 </div>
 </div>
 
