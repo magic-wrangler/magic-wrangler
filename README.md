@@ -60,14 +60,12 @@
 
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://w1.gtimg.cn/wujicode/fx_drop_config/9b3ec3b6d0b77da38afbb9ef19bf0f0b/360172e3_5mobSLxYrwX.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://w1.gtimg.cn/wujicode/fx_drop_config/9b3ec3b6d0b77da38afbb9ef19bf0f0b/360172e3_gJA_q0-rPez.svg" />
-    <img alt="github-snake" src="https://w1.gtimg.cn/wujicode/fx_drop_config/9b3ec3b6d0b77da38afbb9ef19bf0f0b/360172e3_0vRToCLhpld.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/magic-wrangler/magic-wrangler/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/magic-wrangler/magic-wrangler/output/github-contribution-grid-snake-light.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/magic-wrangler/magic-wrangler/output/github-contribution-grid-snake.svg" />
   </picture>
-  
+
   ![GitHub Metrics](./github-metrics.svg)
 
 </div>
 </div>
-
-
