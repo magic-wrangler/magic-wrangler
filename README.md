@@ -65,7 +65,7 @@
     <img alt="github-snake" src="https://raw.githubusercontent.com/magic-wrangler/magic-wrangler/output/github-contribution-grid-snake.svg" />
   </picture>
 
-  ![GitHub Metrics](./github-metrics.svg)
+  <!-- ![GitHub Metrics](./github-metrics.svg) -->
 
 </div>
 </div>
